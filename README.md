@@ -6,7 +6,8 @@
 2. Selecione a opção de clonar um repositório do GitHub e cole o URL do seu projeto (https://github.com/ieremies/prog2-game1 ou https://github.com/ieremies/prog2-game2).
 3. Abra um terminal.
 4. Instale *pygame* usando `pip3 install pygame --break-system-packages`.
-5. Rode `python3 src/game.py`
+5. Instale *opencv* usando `pip3 install opencv-python`.
+6. Rode `python3 src/game.py`
 
 
 Caso dê o erro `error: externally-managed-environment`, use:
